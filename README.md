@@ -1,4 +1,4 @@
-# 🔄 Refatoração de Sistema em C para Java 🧱
+# 🔄 Refatoração de um desafio em C para Java 🧱
 
 > Projeto reestruturado com foco em boas práticas de design e organização orientada a objetos.
 
