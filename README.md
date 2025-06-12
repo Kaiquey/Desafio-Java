@@ -1,4 +1,4 @@
-# 🔄 Refatoração de um desafio em C para Java !(https://img.shields.io/badge/Java-cfcfcf?style=for-the-badge&logo=**openjdk**&logoColor=black)
+# 🔄 Refatoração de um desafio em C para Java ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 > Projeto reestruturado com foco em boas práticas de design e organização orientada a objetos.
 
