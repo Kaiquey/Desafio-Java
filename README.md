@@ -1,6 +1,6 @@
 # 🔄 Refatoração de um desafio em C para Java ![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-> Projeto reestruturado com foco em boas práticas de design e organização orientada a objetos.
+> Projeto reestruturado com foco em boas práticas de MVC e organização orientada a objetos.
 
 ![Java](https://img.shields.io/badge/linguagem-Java-red)
 ![MVC](https://img.shields.io/badge/padr%C3%A3o-MVC-blue)
