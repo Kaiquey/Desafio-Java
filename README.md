@@ -19,6 +19,7 @@ garantindo código mais limpo, modular e fácil de manter, essa oportunidade de 
 
 projeto/
 ├── bin/ # Arquivos .class compilados
+│
 ├── src/ # Código-fonte Java
 │ ├── model/ # Lógica de negócios e dados
 │ ├── view/ # Interface (geralmente via console)
