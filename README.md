@@ -18,14 +18,13 @@ garantindo código mais limpo, modular e fácil de manter, essa oportunidade de 
 ## 🗂️ Estrutura de Pastas
 
 projeto/
-├── bin/ # Arquivos .class compilados
-│
-├── src/ # Código-fonte Java
-│ ├── model/ # Lógica de negócios e dados
-│ ├── view/ # Interface (geralmente via console)
-│ ├── controller/ # Coordena a lógica da aplicação
-│ └── Main.java # Ponto de entrada do programa
-├── settings/ # Configurações de IDE (ex: Eclipse)
+├── bin/           # Arquivos .class compilados
+├── src/           # Código-fonte Java
+│   ├── model/       # Lógica de negócios e dados
+│   ├── view/        # Interface (geralmente via console)
+│   ├── controller/  # Coordena a lógica da aplicação
+│   └── Main.java    # Ponto de entrada do programa
+├── settings/      # Configurações de IDE (ex: Eclipse)
 
 ## 🧱 Arquitetura Aplicada
 
@@ -35,3 +34,12 @@ projeto/
 - **View**: Exibe a interface para o usuário (via console, neste projeto).
 - **Controller**: Faz a mediação entre os dados (Model) e a interface (View), controlando o fluxo da aplicação.
 
+
+## 📬 Contato
+
+- 📧 Email: kaiquesouzacosta16@gmail.com  
+- 🐙 GitHub: [@Kaiquey](https://github.com/Kaiquey)
+
+---
+
+> ✨ *"Código limpo é aquele que expressa claramente sua intenção."* — Clean Code
